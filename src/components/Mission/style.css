@@ -1,0 +1,21 @@
+.launches {
+    overflow:hidden auto;
+    height: 100vh;
+    background-color: #ececec;
+    width: 250px;
+    padding: 0px 20px 0px 20px;
+}
+
+.launches_list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.launches_item {
+    padding-top: 20px;
+  padding-bottom: 20px;
+  border-top: 1px solid #919191;
+  cursor: pointer;
+
+}
